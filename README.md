@@ -25,13 +25,6 @@ Esta versión está **100% limpia** y enfocada en la privacidad y el control tot
   <img src="https://media.giphy.com/media/L8K62iDadQI6I/giphy.gif" width="400" alt="Code GIF"/>
 </div>
 
-## ✨ Características Principales
-
-*   🛡️ **Cero Publicidad Oculta:** Eliminación total de la inyección forzada del botón *"Ver Canal"* en mensajes multimedia (audios, videos, imágenes).
-*   🚫 **Anti-Secuestro de Canales:** Bloqueo de auto-suscripción a canales de modders externos (`dugong.js`, etc.).
-*   ✅ **Auto-Join Seguro:** Configurado nativamente para unirse **únicamente** a tus canales oficiales autorizados de manera silenciosa al escanear el QR o código de 8 dígitos.
-*   ⚡ **Ligero y Rápido:** Al remover las cargas de `forwardingScore` y metadatos falsos, los mensajes se envían con latencia mínima.
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Separador animado"/>
 
 ## 🛠️ Instalación en tu Bot
@@ -60,12 +53,10 @@ npm install
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Separador animado"/>
 ## 🤝 Créditos y Agradecimientos
  * Librería original creada por Whiskeysockets.
- * Purificación, parches anti-mods y optimización por **JonathanG** / **Mancos y Asociados**.
+ * Purificación, parches y optimización por **JonathanG** / **Mancos y Asociados**.
 <div align="center">
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Desarrollando+el+futuro...;Mancos+Y+Asociados;KennyBot+MD+Rules!" alt="Typing SVG" />
 </div>
-```
 
-```
